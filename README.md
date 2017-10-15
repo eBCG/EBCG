@@ -2,7 +2,7 @@
 
 ## The New (ERC20) Bitcoin Gold on Ethereum blockchain
 
-(https://github.com/eBCG/EBCG/blob/master/logo.jpg)
+![captura de tela 2017-10-09 as 23 46 57](https://github.com/eBCG/EBCG/blob/master/logo.jpg)
 
 The official eBCG Airdrop is 100% free and will be distributed to those interested by signing up below.
 
